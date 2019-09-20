@@ -12,13 +12,13 @@
 **要求服务器带宽大于100Mbps，磁盘大于10G**
 
 域名 | 服务器 | 月传输限制 | 提供者
-- | :-: | :-: | :-
+- | :-: | :-: | :-:
 [https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 法国OVH | 10TB | 官方
 
 ### 软件列表(来自主下载源，香港、荷兰、美国全Azure节点智能分配)
 
 名称 | 版本号 | 程序(Win) | 破解 | 程序(Mac)
-- | :-: | :-: | :-: | :-
+- | :-: | :-: | :-: | :-:
 BarTender | 2016 R7 | [32](http://down.fxxkmakeding.xyz/Bartender/bt32.zip) [64](http://down.fxxkmakeding.xyz/Bartender/bt64.zip) | 集成 | [Mac](http://down.fxxkmakeding.xyz/Bartender/mac.zip)
 BetterZip | 4.2.3.1456 | 无 | 无 | [Mac](http://down.fxxkmakeding.xyz/BetterZip/mac.zip)
 BeyondCompare | 4.2.10 | [中文版](http://down.fxxkmakeding.xyz/BeyondCompare/beyondcomparezh.zip) | [注册机](http://down.fxxkmakeding.xyz/BeyondCompare/keygen.zip) | 无
