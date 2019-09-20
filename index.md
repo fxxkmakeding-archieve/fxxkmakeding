@@ -3,24 +3,11 @@
 2.0版本全新上线，增加了思杰马克丁和麦软网的几乎所有软件
 欢迎加入[我们的Telegram群组](https://t.me/fxxkmakeding)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 资源镜像
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+域名 | 服务器 | 月传输限制 | 提供者
+- | :-: | :-: | :-
+[https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 法国OVH | 10TB | 官方 | 
 
 **Bold** and _Italic_ and `Code` text
 
