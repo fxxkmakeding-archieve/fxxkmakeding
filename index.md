@@ -14,6 +14,7 @@
 域名 | 服务器 | 月传输限制 | 提供者
 - | :-: | :-: | :-:
 [https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 法国OVH | 10TB | 官方
+[https://mirror2.fxxkmakeding.xyz](https://mirror2.fxxkmakeding.xyz) | 韩国AWS | Unlimited | 官方
 [https://mkd.zrj766.com](https://mkd.zrj766.com) | CloudFlare | 1TB | @zrj766
 
 ### 软件列表(来自主下载源，香港、荷兰、美国全Azure节点智能分配)
