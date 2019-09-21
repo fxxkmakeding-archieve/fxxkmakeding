@@ -14,6 +14,7 @@
 域名 | 服务器 | 月传输限制 | 提供者
 - | :-: | :-: | :-:
 [https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 法国OVH | 10TB | 官方
+[https://mkd.zrj766.com](https://mkd.zrj766.com) | CloudFlare | 1TB | @zrj766
 
 ### 软件列表(来自主下载源，香港、荷兰、美国全Azure节点智能分配)
 
@@ -55,3 +56,4 @@ Zbrush | 4R8 | [中文版](https://down.fxxkmakeding.xyz/Zbrush/zbrush.zip) | [�
 - | :-:
 XinYun Tech. Limited | Hidden
 萌IDC博客 | [https://idc.moe](https://idc.moe)
+初行博客 | [https://www.zrj96.com](https://www.zrj96.com)
