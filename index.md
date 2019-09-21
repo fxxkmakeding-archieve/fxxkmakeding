@@ -18,7 +18,8 @@
 [http://mirror3.fxxkmakeding.xyz:31559](http://mirror3.fxxkmakeding.xyz:31559) | 宿迁电信 | 低带宽 Unlimited | 官方
 [https://node4.mkdmirror.workers.dev](https://node4.mkdmirror.workers.dev) | CloudFlare Worker | 3PB | 官方
 [https://mkd.zrj766.com](https://mkd.zrj766.com) | CloudFlare | 1TB | @zrj766
-[http://fuckmkd.mxpkx.com](http://fuckmkd.mxpkx.com) | CloudFlare | Unlimited | @niconeiko
+[https://mkdd.nwspl.ga](https://mkdd.nwspl.ga) | CloudFlare | Unlimited | @niconeiko
+[http://180.160.19.10:88](http://180.160.19.10:88) | 上海电信 | Unlimited | zy z
 
 ### 软件列表(来自主下载源，香港、荷兰、美国全Azure节点智能分配)
 
