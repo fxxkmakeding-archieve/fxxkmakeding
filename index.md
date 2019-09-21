@@ -15,6 +15,7 @@
 - | :-: | :-: | :-:
 [https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 法国OVH | 10TB | 官方
 [https://mirror2.fxxkmakeding.xyz](https://mirror2.fxxkmakeding.xyz) | 韩国AWS | Unlimited | 官方
+[http://mirror3.fxxkmakeding.xyz:31559](http://mirror3.fxxkmakeding.xyz:31559) | 宿迁电信 | Unlimited | 官方 低宽带 玩耍
 [https://mkd.zrj766.com](https://mkd.zrj766.com) | CloudFlare | 1TB | @zrj766
 
 ### 软件列表(来自主下载源，香港、荷兰、美国全Azure节点智能分配)
