@@ -21,13 +21,13 @@
 - | :-: | :-: | :-: | :-:
 BarTender | 2016 R7 | [32](http://down.fxxkmakeding.xyz/Bartender/bt32.zip) [64](http://down.fxxkmakeding.xyz/Bartender/bt64.zip) | 集成 | [Mac](http://down.fxxkmakeding.xyz/Bartender/mac.zip)
 BetterZip | 4.2.3.1456 | 无 | 无 | [Mac](http://down.fxxkmakeding.xyz/BetterZip/mac.zip)
-BeyondCompare | 4.2.10 | [中文版](http://down.fxxkmakeding.xyz/BeyondCompare/beyondcomparezh.zip) | [注册机](http://down.fxxkmakeding.xyz/BeyondCompare/keygen.zip) | 无
+BeyondCompare | 4.2.10 | [中文版](http://down.fxxkmakeding.xyz/BeyondCompare/beyondcomparezh.zip) | [注册机](http://down.fxxkmakeding.xyz/BeyondCompare/keygen.zip) | [Mac](http://down.fxxkmakeding.xyz/BeyondCompare/mac.zip)
 Camtasia | 2019 | [中文版](http://down.fxxkmakeding.xyz/Camtasia/camtasia.zip) | [破解补丁](http://down.fxxkmakeding.xyz/Camtasia/crack.zip) | 无
 ChemOffice | 全套 | [官网下载](https://www.perkinelmer.com.cn/Product/chemoffice-professional-chemofficepro) | [破解补丁](http://down.fxxkmakeding.xyz/ChemOffice/crack.zip) | 无
 CleanMyMac | 4.4.5 | 无 | 集成 | [Mac](http://down.fxxkmakeding.xyz/CleanMyMac/cleanmymac.zip)
 CorelDraw | Graphics Suite 2019 | [中文版](http://down.fxxkmakeding.xyz/CorelDraw/coreldraw.zip) | [注册机](http://down.fxxkmakeding.xyz/CorelDraw/keygen.zip) | 无
 CrossOver | 18.5 | 无 | 集成 | [Mac](http://down.fxxkmakeding.xyz/CrossOver/crossover.zip)
-DeepFreeze | 8.3.8 | [Ent/Server Ent](http://down.fxxkmakeding.xyz/DeepFreeze/DeepFreeze.zip) | [破解补丁](http://down.fxxkmakeding.xyz/DeepFreeze/crack.zip) | 无
+DeepFreeze | 8.56.020.5542 | [Standard](http://down.fxxkmakeding.xyz/DeepFreeze/DeepFreeze.zip) | [破解补丁](http://down.fxxkmakeding.xyz/DeepFreeze/crack.zip) | 无
 EarPro | 6 | 自行下载 | [破解补丁](http://down.fxxkmakeding.xyz/Earpro6/crack.zip) | 无
 EasyRecovery | 11.5.0.3 | [绿色版](http://down.fxxkmakeding.xyz/EasyRecovery/easyrecovery.zip) | 集成 | 无
 Edius | 9.20.3340 | [中文版](http://down.fxxkmakeding.xyz/Edius9/edius9.zip) | [破解补丁](http://down.fxxkmakeding.xyz/Edius9/crack.zip) | 无
@@ -36,7 +36,7 @@ GoldWave | 6.41 | [绿色版](http://down.fxxkmakeding.xyz/GoldWave/GoldWave.zip
 Guitar Pro | 7 | 自行下载 | [破解补丁](http://down.fxxkmakeding.xyz/GuitarPro/GuitarProcrack.zip) | 无
 IconWorkShop | 6.9.1.0 | [汉化版](http://down.fxxkmakeding.xyz/IconWorkshop/IconWorkshop.zip) [单文件](http://down.fxxkmakeding.xyz/IconWorkshop/IconWorkshopdwj.zip) | [破解补丁](http://down.fxxkmakeding.xyz/IconWorkshop/reg.zip) | 无
 KeyShotPro | 8.2.80 | [中文版](http://down.fxxkmakeding.xyz/KeyShotPro/keyshotpro.zip) | [破解补丁](http://down.fxxkmakeding.xyz/KeyShotPro/crack.zip) | 无
-MathType | 7.4.2 | [英文版](http://down.fxxkmakeding.xyz/MathType/MathType.zip) | [破解补丁](http://down.fxxkmakeding.xyz/MathType/crack.zip) | [Mac](http://down.fxxkmakeding.xyz/MathType/mac.zip)
+MathType | 7.4.2 | [英文版](http://down.fxxkmakeding.xyz/MathType/MathType.zip) [中文教育版](http://down.fxxkmakeding.xyz/MathType/edu.zip) | [破解补丁](http://down.fxxkmakeding.xyz/MathType/crack.zip) | [Mac](http://down.fxxkmakeding.xyz/MathType/mac.zip)
 MindManager | 19.0.306 | 自行下载 | [注册机](http://down.fxxkmakeding.xyz/MindManager/keygen.zip) | 无
 NiceLabel | 2017 | [中文版](http://down.fxxkmakeding.xyz/NiceLabel/NiceLabel.zip) | [破解补丁](http://down.fxxkmakeding.xyz/NiceLabel/keygen.zip) | 无
 Overture | 5.5.2 | 自行下载 | [破解补丁](http://down.fxxkmakeding.xyz/Overture/crack.zip) | 无
