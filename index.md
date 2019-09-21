@@ -16,7 +16,7 @@
 [https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 法国OVH | 10TB | 官方
 [https://mirror2.fxxkmakeding.xyz](https://mirror2.fxxkmakeding.xyz) | 韩国AWS | Unlimited | 官方
 [http://mirror3.fxxkmakeding.xyz:31559](http://mirror3.fxxkmakeding.xyz:31559) | 宿迁电信 | 低带宽 Unlimited | 官方
-[https://node4.mkdmirror.workers.dev](https://node4.mkdmirror.workers.dev) | CloudFlare ｜ 3PB ｜官方
+[https://node4.mkdmirror.workers.dev](https://node4.mkdmirror.workers.dev) | CloudFlare ｜ 3PB ｜ 官方
 [https://mkd.zrj766.com](https://mkd.zrj766.com) | CloudFlare | 1TB | @zrj766
 [https://fuckmkd.mxpkx.com](https://fuckmkd.mxpkx.com) | CloudFlare | Unlimited ｜ @niconeiko
 
