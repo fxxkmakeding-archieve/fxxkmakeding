@@ -48,3 +48,10 @@ Teamviewer | 14 | [中文版集成破解](https://down.fxxkmakeding.xyz/TeamView
 Vegas Pro | 16/17 | [16](https://down.fxxkmakeding.xyz/VegasPro/vegaspro16.zip) [17](https://down.fxxkmakeding.xyz/VegasPro/vegaspro17.zip) | 集成 | 无
 Xmanager | 6.0 | [中文版](https://down.fxxkmakeding.xyz/Xmanager/xmanager6.zip) | [破解补丁](https://down.fxxkmakeding.xyz/Xmanager/keygen.zip) | 无
 Zbrush | 4R8 | [中文版](https://down.fxxkmakeding.xyz/Zbrush/zbrush.zip) | [破解补丁](https://down.fxxkmakeding.xyz/Zbrush/crack.zip) | 无
+
+### 我的朋友们
+
+名称 | 地址
+- | :-:
+XinYun Tech. Limited | Hidden
+萌IDC博客 | [https://idc.moe](https://idc.moe)
