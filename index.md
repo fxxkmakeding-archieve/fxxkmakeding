@@ -61,3 +61,4 @@ Zbrush | 4R8 | [中文版](https://down.fxxkmakeding.xyz/Zbrush/zbrush.zip) | [�
 XinYun Tech. Limited | Hidden
 萌IDC博客 | [https://idc.moe](https://idc.moe)
 初行博客 | [https://www.zrj96.com](https://www.zrj96.com)
+Niconeiko 杂货铺 | [https://mxpkx.com](https://mxpkx.com)
