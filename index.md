@@ -21,6 +21,7 @@
 [https://mkd.zrj766.com](https://mkd.zrj766.com) | CloudFlare | 1TB | @zrj766
 [https://mkdd.nwspl.ga](https://mkdd.nwspl.ga) | CloudFlare | Unlimited | @niconeiko
 [http://180.160.19.10:88](http://180.160.19.10:88) | 上海电信 | Unlimited | zy z
+[http://cnjs-2.idc.moe:88/](http://cnjs-2.idc.moe:88/) | 宿迁移动 | Unlimited | @Nyarime
 
 ### 软件列表(来自主下载源，香港、荷兰、美国全Azure节点智能分配)
 
