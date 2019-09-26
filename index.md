@@ -13,7 +13,7 @@
 
 域名 | 服务器 | 月传输限制 | 提供者
 - | :-: | :-: | :-:
-[https://down.fxxkmakeding.xyz](https://down.fxxkmakeding.xyz) | Azure智能分配 | Unlimited | 官方主节点
+下方获取 | Azure智能分配 | Unlimited | 官方主节点
 [https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 法国OVH | 10TB | 官方
 [https://mirror2.fxxkmakeding.xyz](https://mirror2.fxxkmakeding.xyz) | 韩国AWS | Unlimited | 官方
 [http://mirror3.fxxkmakeding.xyz:31559](http://mirror3.fxxkmakeding.xyz:31559) | 宿迁电信 | 低带宽 Unlimited | 官方
