@@ -38,7 +38,7 @@ CorelDraw | Graphics Suite 2019 | [中文版](https://down.fxxkmakeding.xyz/Core
 CrossOver | 18.5 | 无 | 集成 | [Mac](https://down.fxxkmakeding.xyz/CrossOver/crossover.zip)
 DeepFreeze | 8.56.020.5542 | [Standard](https://down.fxxkmakeding.xyz/DeepFreeze/DeepFreeze.zip) | [破解补丁](https://down.fxxkmakeding.xyz/DeepFreeze/crack.zip) | 无
 EarPro | 6 | 自行下载 | [破解补丁](https://down.fxxkmakeding.xyz/Earpro6/crack.zip) | 无
-EasyRecovery | 11.5.0.3 | [绿色版](https://down.fxxkmakeding.xyz/EasyRecovery/easyrecovery.zip) | 集成 | 无
+EasyRecovery | 11/12/13 | [11](https://down.fxxkmakeding.xyz/EasyRecovery/easyrecovery11.zip) [12](https://down.fxxkmakeding.xyz/EasyRecovery/EasyRrecovery12.zip) [13](https://down.fxxkmakeding.xyz/EasyRecovery/EasyRecovery13.zip) | [13破解补丁](https://down.fxxkmakeding.xyz/EasyRecovery/crack.zip) | 无
 Edius | 9.20.3340 | [中文版](https://down.fxxkmakeding.xyz/Edius9/edius9.zip) | [破解补丁](https://down.fxxkmakeding.xyz/Edius9/crack.zip) | 无
 FLStudio | 20.0.1.455 | [英文版](https://down.fxxkmakeding.xyz/FLStudio20/flstudio20.zip) | [破解补丁](https://down.fxxkmakeding.xyz/FLStudio20/crack.zip) | 无
 GoldWave | 6.41 | [绿色版](https://down.fxxkmakeding.xyz/GoldWave/GoldWave.zip) | 集成 | 无
