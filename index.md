@@ -13,7 +13,7 @@
 
 域名 | 服务器 | 月传输限制 | 提供者
 - | :-: | :-: | :-:
-[https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 法国OVH | 10TB | 官方
+[https://mirror.fxxkmakeding.xyz/](https://mirror.fxxkmakeding.xyz/) | 法国OVH | 10TB | 官方
 [https://mirror2.fxxkmakeding.xyz](https://mirror2.fxxkmakeding.xyz) | 韩国AWS | Unlimited | 官方
 [http://mirror3.fxxkmakeding.xyz:31559](http://mirror3.fxxkmakeding.xyz:31559) | 宿迁电信 | 低带宽 Unlimited | 官方
 [https://node4.mkdmirror.workers.dev](https://node4.mkdmirror.workers.dev) | CloudFlare Worker | 3PB | 官方
@@ -27,35 +27,35 @@
 
 名称 | 版本号 | 程序(Win) | 破解 | 程序(Mac)
 - | :-: | :-: | :-: | :-:
-BarTender | 2016 R7 | [32](https://mirror.fxxkmakeding.xyzBartender/bt32.zip) [64](https://mirror.fxxkmakeding.xyzBartender/bt64.zip) | 集成 | [Mac](https://mirror.fxxkmakeding.xyzBartender/mac.zip)
-BetterZip | 4.2.3.1456 | 无 | 无 | [Mac](https://mirror.fxxkmakeding.xyzBetterZip/mac.zip)
-BeyondCompare | 4.2.10 | [中文版](https://mirror.fxxkmakeding.xyzBeyondCompare/beyondcomparezh.zip) | [注册机](https://mirror.fxxkmakeding.xyzBeyondCompare/keygen.zip) | [Mac](https://mirror.fxxkmakeding.xyzBeyondCompare/mac.zip)
-Camtasia | 2019 | [中文版](https://mirror.fxxkmakeding.xyzCamtasia/camtasia.zip) | [破解补丁](https://mirror.fxxkmakeding.xyzCamtasia/crack.zip) | 无
-ChemOffice | 全套 | [官网下载](https://www.perkinelmer.com.cn/Product/chemoffice-professional-chemofficepro) | [破解补丁](https://mirror.fxxkmakeding.xyzChemOffice/crack.zip) | 无
-CleanMyMac | 4.4.5 | 无 | 集成 | [Mac](https://mirror.fxxkmakeding.xyzCleanMyMac/cleanmymac.zip)
-CorelDraw | Graphics Suite 2019 | [中文版](https://mirror.fxxkmakeding.xyzCorelDraw/coreldraw.zip) | [注册机](https://mirror.fxxkmakeding.xyzCorelDraw/keygen.zip) | 无
-CrossOver | 18.5 | 无 | 集成 | [Mac](https://mirror.fxxkmakeding.xyzCrossOver/crossover.zip)
-DeepFreeze | 8.56.020.5542 | [Standard](https://mirror.fxxkmakeding.xyzDeepFreeze/DeepFreeze.zip) | [破解补丁](https://mirror.fxxkmakeding.xyzDeepFreeze/crack.zip) | 无
-EarPro | 6 | 自行下载 | [破解补丁](https://mirror.fxxkmakeding.xyzEarpro6/crack.zip) | 无
-EasyRecovery | 11/12/13 | [11](https://mirror.fxxkmakeding.xyzEasyRecovery/easyrecovery11.zip) [12](https://mirror.fxxkmakeding.xyzEasyRecovery/EasyRrecovery12.zip) [13](https://mirror.fxxkmakeding.xyzEasyRecovery/EasyRecovery13.zip) | [13破解补丁](https://mirror.fxxkmakeding.xyzEasyRecovery/crack.zip) | 无
-Edius | 9.20.3340 | [中文版](https://mirror.fxxkmakeding.xyzEdius9/edius9.zip) | [破解补丁](https://mirror.fxxkmakeding.xyzEdius9/crack.zip) | 无
-FLStudio | 20.0.1.455 | [英文版](https://mirror.fxxkmakeding.xyzFLStudio20/flstudio20.zip) | [破解补丁](https://mirror.fxxkmakeding.xyzFLStudio20/crack.zip) | 无
-GoldWave | 6.41 | [绿色版](https://mirror.fxxkmakeding.xyzGoldWave/GoldWave.zip) | 集成 | 无
-Guitar Pro | 7 | 自行下载 | [破解补丁](https://mirror.fxxkmakeding.xyzGuitarPro/GuitarProcrack.zip) | 无
-IconWorkShop | 6.9.1.0 | [汉化版](https://mirror.fxxkmakeding.xyzIconWorkshop/IconWorkshop.zip) [单文件](https://mirror.fxxkmakeding.xyzIconWorkshop/IconWorkshopdwj.zip) | [破解补丁](https://mirror.fxxkmakeding.xyzIconWorkshop/reg.zip) | 无
-KeyShotPro | 8.2.80 | [中文版](https://mirror.fxxkmakeding.xyzKeyShotPro/keyshotpro.zip) | [破解补丁](https://mirror.fxxkmakeding.xyzKeyShotPro/crack.zip) | 无
-MathType | 7.4.2 | [英文版](https://mirror.fxxkmakeding.xyzMathType/MathType.zip) [中文教育版](https://mirror.fxxkmakeding.xyzMathType/edu.zip) | [破解补丁](https://mirror.fxxkmakeding.xyzMathType/crack.zip) | [Mac](https://mirror.fxxkmakeding.xyzMathType/mac.zip)
-MindManager | 19.0.306 | 自行下载 | [注册机](https://mirror.fxxkmakeding.xyzMindManager/keygen.zip) | 无
-NiceLabel | 2017 | [中文版](https://mirror.fxxkmakeding.xyzNiceLabel/NiceLabel.zip) | [破解补丁](https://mirror.fxxkmakeding.xyzNiceLabel/keygen.zip) | 无
-Overture | 5.5.2 | 自行下载 | [破解补丁](https://mirror.fxxkmakeding.xyzOverture/crack.zip) | 无
-ParagonNTFS | 15.5.53 | 无 | 集成 | [Mac](https://mirror.fxxkmakeding.xyzParagonNTFS/ParagonNTFS.zip)
-Sketchpad | 5.0.6最强中文版 | [绿色版](https://mirror.fxxkmakeding.xyzSketchpad/Sketchpad.zip) | 集成 | 无
-Sothink LogoMaker Pro | 4.4.4625 | [中文版](https://mirror.fxxkmakeding.xyzSothinkLogoMaker/SothinkLogoMaker.zip) | [破解补丁](https://mirror.fxxkmakeding.xyzSothinkLogoMaker/crack.zip) | 无
-Sothink SWF Decompiler | 7.4.5320 | [中文版](https://mirror.fxxkmakeding.xyzSothinkSWFDecompiler/SothinkSWFDecompiler.zip) | [破解补丁](https://mirror.fxxkmakeding.xyzSothinkSWFDecompiler/crack.zip) | 无
-Teamviewer | 14 | [中文版集成破解](https://mirror.fxxkmakeding.xyzTeamViewer/TeamViewer.zip) | [换ID](https://mirror.fxxkmakeding.xyzTeamViewer/changeidwin.zip) | [Mac集成换ID](https://mirror.fxxkmakeding.xyzTeamViewer/mac.zip)
-Vegas Pro | 16/17 | [16](https://mirror.fxxkmakeding.xyzVegasPro/vegaspro16.zip) [17](https://mirror.fxxkmakeding.xyzVegasPro/vegaspro17.zip) | 集成 | 无
-Xmanager | 6.0 | [中文版](https://mirror.fxxkmakeding.xyzXmanager/xmanager6.zip) | [破解补丁](https://mirror.fxxkmakeding.xyzXmanager/keygen.zip) | 无
-Zbrush | 4R8 | [中文版](https://mirror.fxxkmakeding.xyzZbrush/zbrush.zip) | [破解补丁](https://mirror.fxxkmakeding.xyzZbrush/crack.zip) | 无
+BarTender | 2016 R7 | [32](https://mirror.fxxkmakeding.xyz/Bartender/bt32.zip) [64](https://mirror.fxxkmakeding.xyz/Bartender/bt64.zip) | 集成 | [Mac](https://mirror.fxxkmakeding.xyz/Bartender/mac.zip)
+BetterZip | 4.2.3.1456 | 无 | 无 | [Mac](https://mirror.fxxkmakeding.xyz/BetterZip/mac.zip)
+BeyondCompare | 4.2.10 | [中文版](https://mirror.fxxkmakeding.xyz/BeyondCompare/beyondcomparezh.zip) | [注册机](https://mirror.fxxkmakeding.xyz/BeyondCompare/keygen.zip) | [Mac](https://mirror.fxxkmakeding.xyz/BeyondCompare/mac.zip)
+Camtasia | 2019 | [中文版](https://mirror.fxxkmakeding.xyz/Camtasia/camtasia.zip) | [破解补丁](https://mirror.fxxkmakeding.xyz/Camtasia/crack.zip) | 无
+ChemOffice | 全套 | [官网下载](https://www.perkinelmer.com.cn/Product/chemoffice-professional-chemofficepro) | [破解补丁](https://mirror.fxxkmakeding.xyz/ChemOffice/crack.zip) | 无
+CleanMyMac | 4.4.5 | 无 | 集成 | [Mac](https://mirror.fxxkmakeding.xyz/CleanMyMac/cleanmymac.zip)
+CorelDraw | Graphics Suite 2019 | [中文版](https://mirror.fxxkmakeding.xyz/CorelDraw/coreldraw.zip) | [注册机](https://mirror.fxxkmakeding.xyz/CorelDraw/keygen.zip) | 无
+CrossOver | 18.5 | 无 | 集成 | [Mac](https://mirror.fxxkmakeding.xyz/CrossOver/crossover.zip)
+DeepFreeze | 8.56.020.5542 | [Standard](https://mirror.fxxkmakeding.xyz/DeepFreeze/DeepFreeze.zip) | [破解补丁](https://mirror.fxxkmakeding.xyz/DeepFreeze/crack.zip) | 无
+EarPro | 6 | 自行下载 | [破解补丁](https://mirror.fxxkmakeding.xyz/Earpro6/crack.zip) | 无
+EasyRecovery | 11/12/13 | [11](https://mirror.fxxkmakeding.xyz/EasyRecovery/easyrecovery11.zip) [12](https://mirror.fxxkmakeding.xyz/EasyRecovery/EasyRrecovery12.zip) [13](https://mirror.fxxkmakeding.xyz/EasyRecovery/EasyRecovery13.zip) | [13破解补丁](https://mirror.fxxkmakeding.xyz/EasyRecovery/crack.zip) | 无
+Edius | 9.20.3340 | [中文版](https://mirror.fxxkmakeding.xyz/Edius9/edius9.zip) | [破解补丁](https://mirror.fxxkmakeding.xyz/Edius9/crack.zip) | 无
+FLStudio | 20.0.1.455 | [英文版](https://mirror.fxxkmakeding.xyz/FLStudio20/flstudio20.zip) | [破解补丁](https://mirror.fxxkmakeding.xyz/FLStudio20/crack.zip) | 无
+GoldWave | 6.41 | [绿色版](https://mirror.fxxkmakeding.xyz/GoldWave/GoldWave.zip) | 集成 | 无
+Guitar Pro | 7 | 自行下载 | [破解补丁](https://mirror.fxxkmakeding.xyz/GuitarPro/GuitarProcrack.zip) | 无
+IconWorkShop | 6.9.1.0 | [汉化版](https://mirror.fxxkmakeding.xyz/IconWorkshop/IconWorkshop.zip) [单文件](https://mirror.fxxkmakeding.xyz/IconWorkshop/IconWorkshopdwj.zip) | [破解补丁](https://mirror.fxxkmakeding.xyz/IconWorkshop/reg.zip) | 无
+KeyShotPro | 8.2.80 | [中文版](https://mirror.fxxkmakeding.xyz/KeyShotPro/keyshotpro.zip) | [破解补丁](https://mirror.fxxkmakeding.xyz/KeyShotPro/crack.zip) | 无
+MathType | 7.4.2 | [英文版](https://mirror.fxxkmakeding.xyz/MathType/MathType.zip) [中文教育版](https://mirror.fxxkmakeding.xyz/MathType/edu.zip) | [破解补丁](https://mirror.fxxkmakeding.xyz/MathType/crack.zip) | [Mac](https://mirror.fxxkmakeding.xyz/MathType/mac.zip)
+MindManager | 19.0.306 | 自行下载 | [注册机](https://mirror.fxxkmakeding.xyz/MindManager/keygen.zip) | 无
+NiceLabel | 2017 | [中文版](https://mirror.fxxkmakeding.xyz/NiceLabel/NiceLabel.zip) | [破解补丁](https://mirror.fxxkmakeding.xyz/NiceLabel/keygen.zip) | 无
+Overture | 5.5.2 | 自行下载 | [破解补丁](https://mirror.fxxkmakeding.xyz/Overture/crack.zip) | 无
+ParagonNTFS | 15.5.53 | 无 | 集成 | [Mac](https://mirror.fxxkmakeding.xyz/ParagonNTFS/ParagonNTFS.zip)
+Sketchpad | 5.0.6最强中文版 | [绿色版](https://mirror.fxxkmakeding.xyz/Sketchpad/Sketchpad.zip) | 集成 | 无
+Sothink LogoMaker Pro | 4.4.4625 | [中文版](https://mirror.fxxkmakeding.xyz/SothinkLogoMaker/SothinkLogoMaker.zip) | [破解补丁](https://mirror.fxxkmakeding.xyz/SothinkLogoMaker/crack.zip) | 无
+Sothink SWF Decompiler | 7.4.5320 | [中文版](https://mirror.fxxkmakeding.xyz/SothinkSWFDecompiler/SothinkSWFDecompiler.zip) | [破解补丁](https://mirror.fxxkmakeding.xyz/SothinkSWFDecompiler/crack.zip) | 无
+Teamviewer | 14 | [中文版集成破解](https://mirror.fxxkmakeding.xyz/TeamViewer/TeamViewer.zip) | [换ID](https://mirror.fxxkmakeding.xyz/TeamViewer/changeidwin.zip) | [Mac集成换ID](https://mirror.fxxkmakeding.xyz/TeamViewer/mac.zip)
+Vegas Pro | 16/17 | [16](https://mirror.fxxkmakeding.xyz/VegasPro/vegaspro16.zip) [17](https://mirror.fxxkmakeding.xyz/VegasPro/vegaspro17.zip) | 集成 | 无
+Xmanager | 6.0 | [中文版](https://mirror.fxxkmakeding.xyz/Xmanager/xmanager6.zip) | [破解补丁](https://mirror.fxxkmakeding.xyz/Xmanager/keygen.zip) | 无
+Zbrush | 4R8 | [中文版](https://mirror.fxxkmakeding.xyz/Zbrush/zbrush.zip) | [破解补丁](https://mirror.fxxkmakeding.xyz/Zbrush/crack.zip) | 无
 
 ### 我的朋友们
 
