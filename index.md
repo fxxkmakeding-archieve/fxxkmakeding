@@ -54,6 +54,7 @@ Sothink LogoMaker Pro | 4.4.4625 | [中文版](https://mirror.fxxkmakeding.xyz/S
 Sothink SWF Decompiler | 7.4.5320 | [中文版](https://mirror.fxxkmakeding.xyz/SothinkSWFDecompiler/SothinkSWFDecompiler.zip) | [破解补丁](https://mirror.fxxkmakeding.xyz/SothinkSWFDecompiler/crack.zip) | 无
 Teamviewer | 14 | [中文版集成破解](https://mirror.fxxkmakeding.xyz/TeamViewer/TeamViewer.zip) | [换ID](https://mirror.fxxkmakeding.xyz/TeamViewer/changeidwin.zip) | [Mac集成换ID](https://mirror.fxxkmakeding.xyz/TeamViewer/mac.zip)
 Vegas Pro | 16/17 | [16](https://mirror.fxxkmakeding.xyz/VegasPro/vegaspro16.zip) [17](https://mirror.fxxkmakeding.xyz/VegasPro/vegaspro17.zip) | 集成 | 无
+VideoStudio ｜ 22 ｜ [中文版集成破解](https://mirror.fxxkmakeding.xyz/VideoStudio/videostudio.zip) | 集成 ｜ 无
 Xmanager | 6.0 | [中文版](https://mirror.fxxkmakeding.xyz/Xmanager/xmanager6.zip) | [破解补丁](https://mirror.fxxkmakeding.xyz/Xmanager/keygen.zip) | 无
 Zbrush | 4R8 | [中文版](https://mirror.fxxkmakeding.xyz/Zbrush/zbrush.zip) | [破解补丁](https://mirror.fxxkmakeding.xyz/Zbrush/crack.zip) | 无
 
