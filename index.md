@@ -13,7 +13,8 @@
 
 域名 | 服务器 | 月传输限制 | 提供者
 - | :-: | :-: | :-:
-[https://mirror.fxxkmakeding.xyz/](https://mirror.fxxkmakeding.xyz/) | 法国OVH | 10TB | 官方
+[http://cdn.mirror.fxxkmakeding.xyz] | 全球CDN | 1TB | 临时线路 1TB 1月有效
+[https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 法国OVH | 10TB | 官方
 [https://mirror2.fxxkmakeding.xyz](https://mirror2.fxxkmakeding.xyz) | 韩国AWS | Unlimited | 官方
 [http://mirror3.fxxkmakeding.xyz:31559](http://mirror3.fxxkmakeding.xyz:31559) | 宿迁电信 | 低带宽 Unlimited | 官方
 [https://node4.mkdmirror.workers.dev](https://node4.mkdmirror.workers.dev) | CloudFlare Worker | 3PB | 官方
