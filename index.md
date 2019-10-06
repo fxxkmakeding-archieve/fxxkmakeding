@@ -15,13 +15,13 @@
 - | :-: | :-: | :-:
 [http://cdn.mirror.fxxkmakeding.xyz](http://cdn.mirror.fxxkmakeding.xyz) | 全球CDN | 1TB | 临时线路 1TB 1月有效
 [https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 法国OVH | 10TB | 官方
-[https://mirror2.fxxkmakeding.xyz](https://mirror2.fxxkmakeding.xyz) | 韩国AWS | Unlimited | 官方
-[http://mirror3.fxxkmakeding.xyz:31559](http://mirror3.fxxkmakeding.xyz:31559) | 宿迁电信 | 低带宽 Unlimited | 官方
+已下线 | 韩国AWS | Unlimited | 官方
+已下线 | 宿迁电信 | Unlimited | 官方
 [https://node4.mkdmirror.workers.dev](https://node4.mkdmirror.workers.dev) | CloudFlare Worker | 3PB | 官方
 [https://mkd.zrj766.com](https://mkd.zrj766.com) | CloudFlare | 1TB | @zrj766
 [https://mkdd.nwspl.ga](https://mkdd.nwspl.ga) | CloudFlare | Unlimited | @niconeiko
 [http://180.160.19.10:88](http://180.160.19.10:88) | 上海电信 | Unlimited | zy z
-[http://cnjs-2.idc.moe:88](http://cnjs-2.idc.moe:88) | 宿迁移动 | Unlimited | @Nyarime
+已下线 | 宿迁移动 | Unlimited | @Nyarime
 [https://martins.bilibili.ru](https://martins.bilibili.ru) | 香港 | 1TB | @Jack_Zhao
 
 ### 软件列表
