@@ -4,6 +4,8 @@
 
 欢迎加入[我们的Telegram群组](https://t.me/fxxkmakeding)
 
+也欢迎你给我一个Star
+
 **另：倒卖本站资源全家爆炸**
 
 ### 资源镜像
@@ -15,6 +17,7 @@
 - | :-: | :-: | :-:
 [http://cdn.mirror.fxxkmakeding.xyz](http://cdn.mirror.fxxkmakeding.xyz) | 全球CDN | 1TB | 临时线路 1TB 1月有效
 [https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 法国OVH | 10TB | 官方
+[http://cn.fxxkmakeding.xyz](http://cn.fxxkmakeding.xyz) | 德阳电信 | Unlimited | 官方
 已下线 | 韩国AWS | Unlimited | 官方
 已下线 | 宿迁电信 | Unlimited | 官方
 [https://node4.mkdmirror.workers.dev](https://node4.mkdmirror.workers.dev) | CloudFlare Worker | 3PB | 官方
