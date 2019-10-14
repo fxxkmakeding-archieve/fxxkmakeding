@@ -26,6 +26,7 @@
 [http://180.160.19.10:88](http://180.160.19.10:88) | 上海电信 | Unlimited | zy z
 已下线 | 宿迁移动 | Unlimited | @Nyarime
 [https://martins.bilibili.ru](https://martins.bilibili.ru) | 香港 | 1TB | @Jack_Zhao
+[https://delivery.yuntu.moe/makeding/](https://delivery.yuntu.moe/makeding/) | 圣何塞 | Unlimited | @X25519
 
 ### 软件列表
 
