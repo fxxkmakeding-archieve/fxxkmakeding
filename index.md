@@ -15,7 +15,7 @@
 
 域名 | 服务器 | 月传输限制 | 提供者
 - | :-: | :-: | :-:
-[http://cdn.mirror.fxxkmakeding.xyz](http://cdn.mirror.fxxkmakeding.xyz) | 全球CDN | 1TB | 临时线路 1TB 1月有效
+[http://cdn.fxxkmakeding.xyz](http://cdn.fxxkmakeding.xyz) | 全球CDN | Unlimited | 中国大陆优化分发
 [https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 法国OVH | 10TB | 官方
 [http://cn.fxxkmakeding.xyz](http://cn.fxxkmakeding.xyz) | 兰州 | Unlimited | 官方
 已下线 | 韩国AWS | Unlimited | 官方
