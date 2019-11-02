@@ -22,7 +22,7 @@
 已下线 | 宿迁电信 | Unlimited | 官方
 [https://node4.mkdmirror.workers.dev](https://node4.mkdmirror.workers.dev) | CloudFlare Worker | 3PB | 官方
 [https://mkd.zrj766.com](https://mkd.zrj766.com) | CloudFlare | 1TB | @zrj766
-[https://mkdd.nwspl.ga](https://mkdd.nwspl.ga) | CloudFlare | Unlimited | @niconeiko
+[https://file.mxpkx.com/mkd/](https://file.mxpkx.com/mkd/) | CloudFlare | Unlimited | @niconeiko
 [http://180.160.19.10:88](http://180.160.19.10:88) | 上海电信 | Unlimited | zy z
 已下线 | 宿迁移动 | Unlimited | @Nyarime
 [https://martins.bilibili.ru](https://martins.bilibili.ru) | 香港 | 1TB | @Jack_Zhao
