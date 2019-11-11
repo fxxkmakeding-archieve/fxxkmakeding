@@ -30,6 +30,7 @@
 [https://mkd.mokee.dev](https://mkd.mokee.dev) | 罗马尼亚 | Unlimited | Kirito Sama
 
 ### 软件列表
+### 若CloudFlare被投诉显示403，可在上方镜像源进行下载
 ### 下方链接仅建议国外用户使用，国内用户请走[CDN](http://cdn.fxxkmakeding.xyz)
 
 名称 | 版本号 | 程序(Win) | 破解 | 程序(Mac)
