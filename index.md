@@ -1,12 +1,12 @@
 ## 欢迎访问FXXKMAKEDING.XYZ
 
-2.0版本全新上线，增加了思杰马克丁和麦软网的几乎所有软件
+2019-12-21再次更新
 
 欢迎加入[我们的Telegram群组](https://t.me/fxxkmakeding)
 
 也欢迎你给我一个Star
 
-**另：倒卖本站资源全家爆炸**
+**严禁倒卖本站资源**
 
 ### 资源镜像
 **我们接受增加个人的镜像源，请联系我的Telegram获取本站资源**
@@ -15,23 +15,16 @@
 
 域名 | 服务器 | 月传输限制 | 提供者
 - | :-: | :-: | :-:
-[http://cdn.fxxkmakeding.xyz](http://cdn.fxxkmakeding.xyz) | 大陆节点CDN分发 | Unlimited | 官方
 [https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 香港 | Unlimited | 官方
-[http://cn.fxxkmakeding.xyz](http://cn.fxxkmakeding.xyz) | 兰州 | Unlimited | 官方
-已下线 | 韩国AWS | Unlimited | 官方
-已下线 | 宿迁电信 | Unlimited | 官方
 [https://node4.mkdmirror.workers.dev](https://node4.mkdmirror.workers.dev) | CloudFlare Worker | 3PB | 官方
 [https://mkd.zrj766.com](https://mkd.zrj766.com) | CloudFlare | 1TB | @zrj766
 [https://file.mxpkx.com/mkd/](https://file.mxpkx.com/mkd/) | CloudFlare | Unlimited | @niconeiko
-[http://180.160.19.10:88](http://180.160.19.10:88) | 上海电信 | Unlimited | zy z
-已下线 | 宿迁移动 | Unlimited | @Nyarime
 [https://martins.bilibili.ru](https://martins.bilibili.ru) | 香港 | 1TB | @Jack_Zhao
 [https://delivery.yuntu.com.tw/makeding/](https://delivery.yuntu.com.tw/makeding/) | 圣何塞 | Unlimited | @X25519
 [https://mkd.mokee.dev](https://mkd.mokee.dev) | 罗马尼亚 | Unlimited | Kirito Sama
 
 ### 软件列表
-### 若CloudFlare被投诉显示403，可在上方镜像源进行下载
-### 下方链接仅建议国外用户使用，国内用户请走[CDN](http://cdn.fxxkmakeding.xyz)
+### 部分文件被封报错请从上方镜像下载
 
 名称 | 版本号 | 程序(Win) | 破解 | 程序(Mac)
 - | :-: | :-: | :-: | :-:
@@ -39,6 +32,7 @@ BarTender | 2016 R7 | [32](https://node4.mkdmirror.workers.dev/Bartender/bt32.zi
 BetterZip | 4.2.3.1456 | 无 | 无 | [Mac](https://node4.mkdmirror.workers.dev/BetterZip/mac.zip)
 BeyondCompare | 4.2.10 | [中文版](https://node4.mkdmirror.workers.dev/BeyondCompare/beyondcomparezh.zip) | [注册机](https://node4.mkdmirror.workers.dev/BeyondCompare/keygen.zip) | [Mac](https://node4.mkdmirror.workers.dev/BeyondCompare/mac.zip)
 Camtasia | 2019 | [中文版](https://node4.mkdmirror.workers.dev/Camtasia/camtasia.zip) | [破解补丁](https://node4.mkdmirror.workers.dev/Camtasia/crack.zip) | 无
+CCleaner | 5.63PRO/5.59增强版 | [5.63](https://node4.mkdmirror.workers.dev/CCleaner/CCleaner.zip) [增强版](https://node4.mkdmirror.workers.dev/CCleaner/plus.zip) | 集成 | 无
 ChemOffice | 全套 | [官网下载](https://www.perkinelmer.com.cn/Product/chemoffice-professional-chemofficepro) | [破解补丁](https://node4.mkdmirror.workers.dev/ChemOffice/crack.zip) | 无
 CleanMyMac | 4.4.5 | 无 | 集成 | [Mac](https://node4.mkdmirror.workers.dev/CleanMyMac/cleanmymac.zip)
 CorelDraw | Graphics Suite 2019 | [中文版](https://node4.mkdmirror.workers.dev/CorelDraw/coreldraw.zip) | [注册机](https://node4.mkdmirror.workers.dev/CorelDraw/keygen.zip) | 无
@@ -57,12 +51,13 @@ MindManager | 19.0.306 | 自行下载 | [注册机](https://node4.mkdmirror.work
 NiceLabel | 2017 | [中文版](https://node4.mkdmirror.workers.dev/NiceLabel/NiceLabel.zip) | [破解补丁](https://node4.mkdmirror.workers.dev/NiceLabel/keygen.zip) | 无
 Overture | 5.5.2 | 自行下载 | [破解补丁](https://node4.mkdmirror.workers.dev/Overture/crack.zip) | 无
 ParagonNTFS | 15.5.53 | 无 | 集成 | [Mac](https://node4.mkdmirror.workers.dev/ParagonNTFS/ParagonNTFS.zip)
-Sketchpad | 5.0.6最强中文版 | [绿色版](https://node4.mkdmirror.workers.dev/Sketchpad/Sketchpad.zip) | 集成 | 无
-Sothink LogoMaker Pro | 4.4.4625 | [中文版](https://node4.mkdmirror.workers.dev/SothinkLogoMaker/SothinkLogoMaker.zip) | [破解补丁](https://node4.mkdmirror.workers.dev/SothinkLogoMaker/crack.zip) | 无
-Sothink SWF Decompiler | 7.4.5320 | [中文版](https://node4.mkdmirror.workers.dev/SothinkSWFDecompiler/SothinkSWFDecompiler.zip) | [破解补丁](https://node4.mkdmirror.workers.dev/SothinkSWFDecompiler/crack.zip) | 无
+PhotoZoom | 单文件 | [64位](https://node4.mkdmirror.workers.dev/PhotoZoom/64.zip) | 集成 | 无
+几何画板 | 5.0.6最强中文版 | [绿色版](https://node4.mkdmirror.workers.dev/Sketchpad/Sketchpad.zip) | 集成 | 无
+硕思LOGO设计师 | 4.4.4625 | [中文版](https://node4.mkdmirror.workers.dev/SothinkLogoMaker/SothinkLogoMaker.zip) | [破解补丁](https://node4.mkdmirror.workers.dev/SothinkLogoMaker/crack.zip) | 无
+硕思闪客精灵 | 7.4.5320 | [中文版](https://node4.mkdmirror.workers.dev/SothinkSWFDecompiler/SothinkSWFDecompiler.zip) | [破解补丁](https://node4.mkdmirror.workers.dev/SothinkSWFDecompiler/crack.zip) | 无
 Teamviewer | 14 | [中文版集成破解](https://node4.mkdmirror.workers.dev/TeamViewer/TeamViewer.zip) | [换ID](https://node4.mkdmirror.workers.dev/TeamViewer/changeidwin.zip) | [Mac集成换ID](https://node4.mkdmirror.workers.dev/TeamViewer/mac.zip)
 Vegas Pro | 16/17 | [16](https://node4.mkdmirror.workers.dev/VegasPro/vegaspro16.zip) [17](https://node4.mkdmirror.workers.dev/VegasPro/vegaspro17.zip) | 集成 | 无
-VideoStudio | 22 | [中文版集成破解](https://node4.mkdmirror.workers.dev/VideoStudio/videostudio.zip) | 集成 | 无
+会声会影 | 22 | [中文版集成破解](https://node4.mkdmirror.workers.dev/VideoStudio/videostudio.zip) | 集成 | 无
 Xmanager | 6.0 | [中文版](https://node4.mkdmirror.workers.dev/Xmanager/xmanager6.zip) | [破解补丁](https://node4.mkdmirror.workers.dev/Xmanager/keygen.zip) | 无
 Zbrush | 4R8 | [中文版](https://node4.mkdmirror.workers.dev/Zbrush/zbrush.zip) | [破解补丁](https://node4.mkdmirror.workers.dev/Zbrush/crack.zip) | 无
 
@@ -70,7 +65,7 @@ Zbrush | 4R8 | [中文版](https://node4.mkdmirror.workers.dev/Zbrush/zbrush.zip
 
 名称 | 地址
 - | :-:
-XinYun Tech. Limited | Hidden
+XinYun Tech. Limited | [https://xinyuntechltd.com](https://xinyuntechltd.com)
 萌IDC博客 | [https://idc.moe](https://idc.moe)
 初行博客 | [https://www.zrj96.com](https://www.zrj96.com)
 Niconeiko 杂货铺 | [https://mxpkx.com](https://mxpkx.com)
