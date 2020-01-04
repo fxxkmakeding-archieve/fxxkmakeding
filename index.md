@@ -22,6 +22,7 @@
 [https://martins.bilibili.ru](https://martins.bilibili.ru) | 香港 | 1TB | @Jack_Zhao
 [https://delivery.yuntu.com.tw/makeding/](https://delivery.yuntu.com.tw/makeding/) | 圣何塞 | Unlimited | @X25519
 [https://mkd.mokee.dev](https://mkd.mokee.dev) | 罗马尼亚 | Unlimited | Kirito Sama
+[https://s.wit.im/FXXKMKD/](https://s.wit.im/FXXKMKD/) | 台湾 | Unlimited | @XIAOGELUAN
 
 ### 软件列表
 ### 部分文件被封报错请从上方镜像下载
