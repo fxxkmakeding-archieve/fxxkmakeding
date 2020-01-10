@@ -15,7 +15,7 @@
 
 域名 | 服务器 | 月传输限制 | 提供者
 - | :-: | :-: | :-:
-[https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 香港 | Unlimited | 官方
+[https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 香港 | 惨遭DDoS，已下线 | 官方
 [https://node4.mkdmirror.workers.dev](https://node4.mkdmirror.workers.dev) | CloudFlare Worker | 3PB | 官方
 [https://mkd.zrj766.com](https://mkd.zrj766.com) | CloudFlare | 1TB | @zrj766
 [https://file.mxpkx.com/mkd/](https://file.mxpkx.com/mkd/) | CloudFlare | Unlimited | @niconeiko
@@ -23,6 +23,7 @@
 [https://delivery.yuntu.com.tw/makeding/](https://delivery.yuntu.com.tw/makeding/) | 圣何塞 | Unlimited | @X25519
 [https://mkd.mokee.dev](https://mkd.mokee.dev) | 罗马尼亚 | Unlimited | Kirito Sama
 [https://s.wit.im/FXXKMKD/](https://s.wit.im/FXXKMKD/) | 台湾 | Unlimited | @XIAOGELUAN
+[https://mirror.digac.top](https://mirror.digac.top) | CloudFlare | Unlimited | @EtoTakeo
 
 ### 软件列表
 ### 部分文件被封报错请从上方镜像下载
