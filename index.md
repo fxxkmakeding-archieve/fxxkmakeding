@@ -18,7 +18,7 @@
 [https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 香港 | 惨遭DDoS，已下线 | 官方
 [https://node4.mkdmirror.workers.dev](https://node4.mkdmirror.workers.dev) | CloudFlare Worker | 3PB | 官方
 [https://mkd.zrj766.com](https://mkd.zrj766.com) | CloudFlare | 1TB | @zrj766
-[https://file.mxpkx.com/mkd/](https://file.mxpkx.com/mkd/) | CloudFlare | Unlimited | @niconeiko
+[https://file.de.mxpkx.com:8443/mirror/](https://file.de.mxpkx.com:8443/mirror/) | CloudFlare | Unlimited | @niconeiko
 [https://martins.bilibili.ru](https://martins.bilibili.ru) | 香港 | 1TB | @Jack_Zhao
 [https://delivery.yuntu.com.tw/makeding/](https://delivery.yuntu.com.tw/makeding/) | 圣何塞 | Unlimited | @X25519
 [https://mkd.mokee.dev](https://mkd.mokee.dev) | 罗马尼亚 | Unlimited | Kirito Sama
