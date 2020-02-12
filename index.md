@@ -8,22 +8,7 @@
 
 **严禁倒卖本站资源**
 
-### 资源镜像
-**我们接受增加个人的镜像源，请联系我的Telegram获取本站资源**
-
-**要求服务器带宽大于100Mbps，磁盘大于10G**
-
-域名 | 服务器 | 月传输限制 | 提供者
-- | :-: | :-: | :-:
-[https://mirror.fxxkmakeding.xyz](https://mirror.fxxkmakeding.xyz) | 香港 | 惨遭DDoS，已下线 | 官方
-[https://node4.mkdmirror.workers.dev](https://node4.mkdmirror.workers.dev) | CloudFlare Worker | 3PB | 官方
-[https://mkd.zrj766.com](https://mkd.zrj766.com) | CloudFlare | 1TB | @zrj766
-[https://file.de.mxpkx.com:8443/mirror/](https://file.de.mxpkx.com:8443/mirror/) | CloudFlare | Unlimited | @niconeiko
-[https://martins.bilibili.ru](https://martins.bilibili.ru) | 香港 | 1TB | @Jack_Zhao
-[https://delivery.yuntu.com.tw/makeding/](https://delivery.yuntu.com.tw/makeding/) | 圣何塞 | Unlimited | @X25519
-[https://mkd.mokee.dev](https://mkd.mokee.dev) | 罗马尼亚 | Unlimited | Kirito Sama
-[https://s.wit.im/FXXKMKD/](https://s.wit.im/FXXKMKD/) | 台湾 | Unlimited | @XIAOGELUAN
-[https://mirror.digac.top](https://mirror.digac.top) | CloudFlare | Unlimited | @EtoTakeo
+## 资源镜像已经全面移至Telegram群组
 
 ### 软件列表
 ### 部分文件被封报错请从上方镜像下载
