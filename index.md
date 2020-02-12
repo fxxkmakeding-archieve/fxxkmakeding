@@ -47,12 +47,3 @@ Vegas Pro | 16/17 | [16](https://node4.mkdmirror.workers.dev/VegasPro/vegaspro16
 会声会影 | 22 | [中文版集成破解](https://node4.mkdmirror.workers.dev/VideoStudio/videostudio.zip) | 集成 | 无
 Xmanager | 6.0 | [中文版](https://node4.mkdmirror.workers.dev/Xmanager/xmanager6.zip) | [破解补丁](https://node4.mkdmirror.workers.dev/Xmanager/keygen.zip) | 无
 Zbrush | 4R8 | [中文版](https://node4.mkdmirror.workers.dev/Zbrush/zbrush.zip) | [破解补丁](https://node4.mkdmirror.workers.dev/Zbrush/crack.zip) | 无
-
-### 我的朋友们
-
-名称 | 地址
-- | :-:
-XinYun Tech. Limited | [https://xinyuntechltd.com](https://xinyuntechltd.com)
-萌IDC博客 | [https://idc.moe](https://idc.moe)
-初行博客 | [https://www.zrj96.com](https://www.zrj96.com)
-Niconeiko 杂货铺 | [https://mxpkx.com](https://mxpkx.com)
